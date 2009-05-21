@@ -1,3 +1,12 @@
+CC OpenID Provider
+
+This is an OpenID provider that runs on Google App Engine.  It is
+almost a verbatim copy of the Google App Engine demo, reconfigured to
+authenticate against a Google Apps domain instead of a "normal" Google
+Account.
+
+-----
+
 An OpenID Provider app for Google App Engine. Allows Google users to log into
 OpenID servers using their Google Account.
 
