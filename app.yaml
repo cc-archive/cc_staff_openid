@@ -1,4 +1,4 @@
-application: openid-provider
+application: cc-openid
 version: 1
 runtime: python
 api_version: 1
